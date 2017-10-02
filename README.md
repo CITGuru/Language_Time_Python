@@ -3,7 +3,24 @@
 
 A library that converts Time to its equivalent local languages starting with three basic Nigeria languages(Yoruba, Hausa and Igbo) 
 
-## Setting up
+## Example
+
+```Python
+	import time
+	import calendar
+	import datetime
+	from core import Time
+
+	langTime = Time.English
+
+	langTime.getCurrentTime()
+	langTime.getTime("12:45")
+	langTime.getTime(time)
+	langTime.getTime(datetime.datetime.now())
+	langTime.getTime(calendar.datetime.datetime.now())
+
+
+```
 
 ## Contributors
 * [Adetuyi Tolu Emmanuel](https://twitter.com/AdetuyiTolu) Developer

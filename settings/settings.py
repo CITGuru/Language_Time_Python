@@ -12,7 +12,7 @@ if __name__ == '__main__':
     	from ..core import Time
 
 
-timez = Time.Hausa
+timez = Time.English
 
 print timez.getTime(time)
 

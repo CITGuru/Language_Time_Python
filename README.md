@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Language_Time
 
 A library that converts Time to its equivalent local languages starting with three basic Nigeria languages(Yoruba, Hausa and Igbo) 
@@ -26,3 +27,7 @@ All you need to do is:
    you may not use this file except in compliance with the License.
    You may obtain a copy of the License at [Apache license 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
+=======
+# Language_Time_Python
+Python Language Time
+>>>>>>> a90ba2f77c79fb21b4055cd2ae931fe49902c558
